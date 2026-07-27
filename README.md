@@ -44,7 +44,7 @@ return 0;
 
 # OUTPUT:
 
-<img width="1360" height="573" alt="image" src="https://github.com/user-attachments/assets/e0366596-1fec-4bcf-8a91-8adb0bb3ca15" />
+<img width="1240" height="570" alt="image" src="https://github.com/user-attachments/assets/944566ef-34ab-473c-a9be-5882277f87f0" />
 
 # RESULT:
 
